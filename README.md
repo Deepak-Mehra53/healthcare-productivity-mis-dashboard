@@ -69,5 +69,4 @@ The project transforms raw healthcare operational data into actionable business 
 ---
 
 # 📷 Dashboard Preview
-Screenshot.png
-
+![Dashboard Screenshot](Screenshot.png)
